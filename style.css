@@ -1,0 +1,70 @@
+html,
+#main {
+  font-family: "Raleway", sans-serif;
+  text-align: center;
+  color: #000;
+  min-width: 300px;
+}
+
+#main {
+  padding: 10px;
+  margin: 1px auto;
+  border: 0px solid;
+  background: #f0f0f0;
+  border-radius: 40px;
+}
+
+img {
+  border-radius: 5px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#img-div {
+  margin: 15px auto 15px auto;
+  margin-top: 20px;
+  width: 100%;
+}
+
+#image-caption {
+  margin: 15px;
+  font-style: italic;
+}
+
+hr {
+  border-top: 1px solid;
+}
+
+strong {
+  text-decoration: underline;
+  color: #c01e41;
+}
+
+#tribute-title {
+  margin: 20px;
+}
+
+ul {
+  max-width: 480px;
+  margin: auto auto 20px auto;
+  text-align: left;
+}
+
+li {
+  margin: 10px;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+#tribute-link {
+  color: blue;
+}
+
+#tribute-link:hover {
+  color: #c01e41;
+  font-size: 110%;
+}
